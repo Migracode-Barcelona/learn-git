@@ -125,7 +125,7 @@ In this step, we will push code to GitHub.
     </details>
 * Go to your repository on GitHub and see your updates.
 
-## Mini-Project 2: Learn-Git Project "WIP"
+## Mini-Project 2: Learn-Git Project "DONE"
 
 ## Step 1
 
