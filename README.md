@@ -10,7 +10,7 @@ In the second mini-project, you'll be mimicking the steps you'll take with nearl
 
 Finally, in the last mini-project you'll be mimicking the steps you'll take during the group project in real work environment. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
 
-## Mini-Project 1: Personal Project
+## Mini-Project 1: Personal Project "DONE"
 
 ## Step 1
 
@@ -125,7 +125,7 @@ In this step, we will push code to GitHub.
     </details>
 * Go to your repository on GitHub and see your updates.
 
-## Mini-Project 2: Learn-Git Project
+## Mini-Project 2: Learn-Git Project "DONE"
 
 ## Step 1
 
